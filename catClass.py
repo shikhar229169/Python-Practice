@@ -28,7 +28,7 @@ class Cat:
             otherKitty.wins += 1
             otherKitty.power += 2
         else:
-            print(f"Seems like the cats are in love with each other (Cat licks eat other)!")
+            print(f"Seems like the cats are in love with each other (Cat licks each other)!")
     
 
 # __main__
